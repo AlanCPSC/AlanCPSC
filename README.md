@@ -1,5 +1,3 @@
-# Hello World
-
 ![](images/header_banner.png)
 
 ## Welcome to my profile :wave:

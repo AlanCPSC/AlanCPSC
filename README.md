@@ -21,5 +21,4 @@ Although I have experience using a wide range of odd tools, my weapon of choice 
 <code><a href="https://aws.amazon.com/"        target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/"         target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/"        target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-
 <img src="https://c.statcounter.com/12434431/0/26d03329/1/">

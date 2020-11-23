@@ -1,6 +1,6 @@
 # Hello World
 
-![alt text](https://via.placeholder.com/1500x300)
+![](images/header_banner.png)
 
 ## Subheading :wave:
 

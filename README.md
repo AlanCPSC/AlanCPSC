@@ -24,3 +24,5 @@ Although I have experience using a wide range of odd tools, my weapon of choice 
 <img src="https://c.statcounter.com/12434431/0/26d03329/1/">
 
 ## Let's have a small chat :speech_balloon:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.

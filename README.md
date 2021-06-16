@@ -1,4 +1,4 @@
-![](images/header_banner.png)
+<a href="https://example.com/" target="_blank"><img height="170" src="images/header_banner.png"></a>
 
 ## Welcome to my profile :wave:
 

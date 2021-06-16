@@ -27,4 +27,4 @@ Although I have experience using a wide range of odd tools, my weapon of choice 
 
 I always like talking with like-minded individuals about the latest and greatest in software and hardware developments. Feel free to hit me up if you want to get in touch and chat about technology and the future of humankind.
 
-<a href="https://example.com/" target="_blank"><img height="50" src="images/button_contact_250x50.png"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScESSwv_HB25IvnWSBIuFKBkMtoM74wzZNiZPdWN_XVnowEJg/viewform?usp=sf_link" target="_blank"><img height="50" src="images/button_contact_250x50.png"></a>

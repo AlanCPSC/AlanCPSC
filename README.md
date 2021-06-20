@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3xxRf4t" target="_blank"><img height="170" src="images/header_image.png"></a>
+[![The Header Image](images/header_image.png)](https://bit.ly/3xxRf4t)
 
 ## Welcome to my profile :wave:
 

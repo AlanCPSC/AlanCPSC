@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3xxRf4t" target="_blank"><img height="170" src="images/header_banner.png"></a>
+<a href="https://bit.ly/3xxRf4t" target="_blank"><img height="170" src="images/header_image.png"></a>
 
 ## Welcome to my profile :wave:
 

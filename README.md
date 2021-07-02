@@ -1,6 +1,6 @@
 [![The Header Image](images/header_image.png)](https://bit.ly/3xxRf4t)
 
-## Welcome To My Profile &nbsp;<img height="32" src="images/pixel_art_apple_32x32.png">
+## Welcome To My Profile &nbsp;<img height="32" src="images/pixel_art_candle_32x32.png">
 
 Nice to meet you. We don't get a lot of visitors around here. Allow me to introduce myself, I'm Alan. I'm a software developer who mainly focuses around building consumer facing web and mobile products. In particular, I am very interested in solving UI and UX problems. In my free time, I like to read science fiction novels and play board games.
 <br>
@@ -25,7 +25,7 @@ Although I have experience using a wide range of odd tools, my weapon of choice 
 <img src="https://c.statcounter.com/12434431/0/26d03329/1/">
 <br>
 
-## Let's Chat Over Lunch &nbsp;<img height="32" src="images/pixel_art_ham_32x32.png">
+## Let's Chat Over Lunch &nbsp;<img height="32" src="images/pixel_art_apple_32x32.png">
 
 I always like talking with like-minded individuals about the latest and greatest in software and hardware developments. Feel free to hit me up if you want to get in touch and chat about technology and the future of humankind.
 

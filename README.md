@@ -1,6 +1,6 @@
 [![The Header Image](images/header_image.png)](https://bit.ly/3xxRf4t)
 
-## Welcome to my profile &nbsp; <img height="25" src="images/heart.png">
+## Welcome to my profile &nbsp; <img height="20" src="images/heart.png">
 
 Nice to meet you. We don't get a lot of visitors around here. Allow me to introduce myself, I'm Alan. I'm a software developer who mainly focuses around building consumer facing web and mobile products. In particular, I am very interested in solving UI and UX problems. In my free time, I like to read science fiction novels and play board games.
 <br>

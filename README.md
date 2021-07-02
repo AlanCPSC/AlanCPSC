@@ -1,4 +1,4 @@
-[![The Header Image](images/header_image.png)](https://bit.ly/3xxRf4t)
+[![The Header Image](images/header_image_1500x250.png)](https://bit.ly/3xxRf4t)
 
 ## Welcome To My Profile &nbsp;<a href="https://example.com/"><img height="24" src="images/emoji_google_profile_240x240.png"></a>
 

@@ -22,7 +22,6 @@ Although I have experience using a wide range of odd tools, my weapon of choice 
 <code><a href="https://kubernetes.io/"         target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/"        target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://www.apple.com/ios/"     target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></a></code>
-<img src="https://c.statcounter.com/12434431/0/26d03329/1/">
 <br>
 
 ## Let's Chat Over Lunch &nbsp;<img height="24" src="images/emoji_google_lunch_240x240.png">

@@ -1,4 +1,4 @@
-[![The Header Image](images/header_image_1500x300.png)](https://rebrand.ly/01o82cl)
+[![The Header Image](images/header_image_1500x300.gif)](https://rebrand.ly/01o82cl)
 
 ## Welcome To My Profile &nbsp;<img height="24" src="images/emoji_google_section_01_240x240.png">
 

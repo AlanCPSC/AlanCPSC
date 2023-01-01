@@ -2,12 +2,12 @@
 
 ## Welcome To My Profile
 
-Motivated and curious incoming software developer with a keen interest in machine learning, virtual reality, and new technologies. A lifelong tinkerer, I can often be found working on various side projects of mine.
+An enthusiastic software developer with a passion for machine learning, consumer facing apps, and staying up-to-date with the latest technologies. Always eager to learn and try new things.
 <br>
 
-## Favourite Technologies
+## Favorite Technologies
 
-Proficient in a wide range of modern computer programming languages. I am able to meet the novel and challenging demands of today's ever evolving workforce.
+Proficient in a wide range of modern computer programming languages and frameworks. I am able to meet the novel and challenging demands of today's ever evolving workforce.
 
 <code><a href="https://www.python.org/"     target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.java.com/"       target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
@@ -24,8 +24,8 @@ Proficient in a wide range of modern computer programming languages. I am able t
 <code><a href="https://www.apple.com/ios/"     target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></a></code>
 <br>
 
-## Let's Chat Over Lunch
+## Let's Meet And Chat
 
-Cheerful and friendly, I am always thrilled to meet new friends. Passionate in all things technology related, I enjoy discussing the latest in software and hardware advancements – feel free to reach out to me anytime!
+Cheerful and friendly, I am always thrilled to meet new friends. Passionate in all things technology related, I enjoy discussing the latest in software and hardware advancements – feel free to reach out to me anytime.
 
 <a href="https://rebrand.ly/vzkq5m8" target="_blank"><img height="50" src="images/contact_image_250x50.png"></a>

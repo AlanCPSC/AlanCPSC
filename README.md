@@ -1,11 +1,11 @@
 [![The Header Image](images/header_image_1500x300.gif)](https://rebrand.ly/01o82cl)
 
-## Welcome To My Profile &nbsp;<img height="24" src="images/emoji_google_section_01_240x240.png">
+## Welcome To My Profile
 
 Motivated and curious incoming software developer with a keen interest in machine learning, virtual reality, and new technologies. A lifelong tinkerer, I can often be found working on various side projects of mine.
 <br>
 
-## Favourite Technologies &nbsp;<img height="24" src="images/emoji_google_section_02_240x240.png">
+## Favourite Technologies
 
 Proficient in a wide range of modern computer programming languages. I am able to meet the novel and challenging demands of today's ever evolving workforce.
 
@@ -24,7 +24,7 @@ Proficient in a wide range of modern computer programming languages. I am able t
 <code><a href="https://www.apple.com/ios/"     target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></a></code>
 <br>
 
-## Let's Chat Over Lunch &nbsp;<img height="24" src="images/emoji_google_section_03_240x240.png">
+## Let's Chat Over Lunch
 
 Cheerful and friendly, I am always thrilled to meet new friends. Passionate in all things technology related, I enjoy discussing the latest in software and hardware advancements – feel free to reach out to me anytime!
 

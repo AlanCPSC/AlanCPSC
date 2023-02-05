@@ -1,4 +1,4 @@
-[![The Header Image](images/header_image_1500x300.gif)](https://rebrand.ly/01o82cl)
+![The Header Image](images/header_image_1500x300.gif)
 
 ## Welcome To My Profile
 

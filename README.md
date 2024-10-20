@@ -2,7 +2,7 @@
 
 ## Welcome To My Profile
 
-An enthusiastic software developer with a passion for machine learning, consumer facing apps, and staying up-to-date with the latest technologies. Always eager to learn and try new things.
+An enthusiastic software developer with a passion for machine learning, data analysis, graphs and spreadsheets. Always eager to learn from people and try new things.
 <br>
 
 ## Favorite Technologies

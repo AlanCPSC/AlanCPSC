@@ -26,6 +26,6 @@ Proficient in a wide range of modern computer programming languages and framewor
 
 ## Let's Meet And Chat
 
-Cheerful and friendly, I am always thrilled to meet new friends. Passionate in all things technology related, I enjoy discussing the latest in software and hardware advancements – feel free to reach out to me anytime.
+Cheerful and friendly, I am always thrilled to meet new people. Passionate in all things technology related, I enjoy discussing the latest in software and hardware advancements.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScESSwv_HB25IvnWSBIuFKBkMtoM74wzZNiZPdWN_XVnowEJg/viewform" target="_blank"><img height="50" src="images/contact_image_250x50.png"></a>
